@@ -1,0 +1,12 @@
+import java.util.ArrayList;
+public class java {
+    public static void main(String[] args){
+
+        ArrayList<String> liczby= new ArrayList<String>();
+        liczby.add("1");
+        liczby.add("2");
+        System.out.print(liczby);
+
+
+    }
+}
