@@ -1,0 +1,4 @@
+interface Rysowalny  {
+
+    void draw();
+}
